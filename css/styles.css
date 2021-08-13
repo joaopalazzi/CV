@@ -1,0 +1,24 @@
+body {
+    background-color: #E4F9F5;
+    margin: auto 1%;
+}
+
+hr {
+    border-color: #40514E;
+    border-width: 5px 0px 0px;
+    border-style: dotted;
+    width: 80%;
+}
+
+h1 {
+    color: #30E3CA;
+}
+
+h3 {
+    color: #30E3CA;
+}
+
+tr :hover{
+    border-radius: 4px;
+    background-color: #11999E;
+}
